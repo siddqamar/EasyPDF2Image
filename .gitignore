@@ -1,0 +1,6 @@
+envv/
+input/
+output/
+.DS_Store
+Thumbs.db
+/*.png
