@@ -6,7 +6,6 @@
 - [Motivation](#motivation)
 - [Features](#features)
 - [Installation](#installation)
-- [License](#license)
 
 **Note:** This repository inlcuding script was created using strategic prompting on `Gemini` and `ChatGPT o1`, starting with zero-shot, then few-shot, and refining through iteration. 
 
@@ -44,25 +43,21 @@ Follow these steps to set up **EasyPDF2Image** on your local machine:
 
 Open your terminal or command prompt and run:
 
-```bash
-git clone https://github.com/siddqamar/EasyPDF2Image.git
+```git clone https://github.com/siddqamar/EasyPDF2Image.git```
 
 ### 2. **Navigate to the Project Directory**
 
-```bash
-cd EasyPDF2Image
+```cd EasyPDF2Image```
 
 ### 3. **Create a Virtual Environment**
 
 It's a good practice to use a virtual environment to manage project dependencies.
 
-```bash
-python -m venv venv
+```python -m venv venv```
 
 ### 4. **Activate the Virtual Environment**
 
-```bash
-venv\Scripts\activate
+````venv\Scripts\activate````
 
 ### 5. **Install Dependencies**
 
