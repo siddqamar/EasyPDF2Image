@@ -5,7 +5,10 @@
 - [Introduction](#introduction)
 - [Motivation](#motivation)
 - [Features](#features)
+- [Installation](#installation)
 - [License](#license)
+
+**Note:** This repository inlcuding script was created using strategic prompting on `Gemini` and `ChatGPT o1`, starting with zero-shot, then few-shot, and refining through iteration. 
 
 ---
 
@@ -30,3 +33,40 @@ To solve these problems, I developed this script to allow secure and quick conve
 - **Organized Output:** All images are saved in the `output` folder with clear names like `document_page_1.png`.
 - **Local Processing:** Converts files on your computer without needing an internet connection, ensuring your data stays private.
 - **Easy to Use:** Simple command-line prompts guide you through the conversion process.
+
+---
+
+## Installation
+
+Follow these steps to set up **EasyPDF2Image** on your local machine:
+
+### 1. **Clone the Repository**
+
+Open your terminal or command prompt and run:
+
+```bash
+git clone https://github.com/siddqamar/EasyPDF2Image.git
+
+### 2. **Navigate to the Project Directory**
+
+```bash
+cd EasyPDF2Image
+
+### 3. **Create a Virtual Environment**
+
+It's a good practice to use a virtual environment to manage project dependencies.
+
+```bash
+python -m venv venv
+
+### 4. **Activate the Virtual Environment**
+
+```bash
+venv\Scripts\activate
+
+### 5. **Install Dependencies**
+
+Install the required Python packages using `pip`:
+
+```bash
+pip install -r requirements.txt
