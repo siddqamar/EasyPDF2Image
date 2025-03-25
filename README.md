@@ -1,4 +1,6 @@
-# EasyPDF2Image
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c19f3648-af34-4a3e-9e10-62653fb04fd2" alt="Image">
+</p>
 
 ## Table of Contents
 
@@ -21,7 +23,7 @@
 
 I created **EasyPDF2Image** to help my colleague who was manually converting PDF files to images by taking screenshots of each page. This method was time-consuming and not very efficient. Additionally, my colleague did not want to upload sensitive PDF files to online services because of confidentiality concerns.
 
-To solve these problems, I developed this script to allow secure and quick conversion of PDF files to images directly on a local computer. This way, all files remain safe and private.
+To solve these problems, I developed this script to allow quick conversion of PDF files to images directly on a local computer. This way, all data remain private and safe.
 
 ---
 
